@@ -1,0 +1,16 @@
+{
+  "name": "reka-ssr-test",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.4.8",
+    "reka-ui": "^2.10.1",
+    "vue": "^3.5.35"
+  }
+}
